@@ -1,5 +1,6 @@
 module.exports = {
-    siteUrl: `http://localhost:8000`, // Site domain. Do not include a trailing slash!
+    //siteUrl: `http://localhost:8000`, // Site domain. Do not include a trailing slash!
+    siteUrl: `https://fervent-kirch-732633.netlify.app:8000`, // Site domain. Do not include a trailing slash!
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
